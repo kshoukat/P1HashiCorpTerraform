@@ -1,4 +1,4 @@
-# Terraform for Beginners Course
+# Terraform labs for P1 HashiCorp Terraform
 
 In this repo, we have the workshop lab solutions for  P1 HashiCorp Terraform.
 
